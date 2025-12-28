@@ -6,7 +6,7 @@
 
 ## 🎯 About This Repository
 
-Welcome to my DSA (Data Structures and Algorithms) learning repository! This is my personal space where I document my journey of solving programming problems and mastering fundamental concepts. I'm committed to updating this repository daily as I solve new questions and track my growth in public.
+Welcome to my DSA (Data Structures and Algorithms) learning repository! This is my personal space where I document my journey of solving programming problems and mastering fundamental concepts.  I'm co[...]
 
 ## 📊 Current Progress
 
@@ -14,6 +14,11 @@ Welcome to my DSA (Data Structures and Algorithms) learning repository! This is 
 - **Topics Covered:** 3 Major Categories
 - **Daily Updates:** ✅ Active
 - **Last Updated:** December 28, 2025
+
+## 📈 Daily Commit Activity Graph
+
+[![Commit Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ziyous09&theme=github-compact&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ziyous09/DSA-Problems)
+
 
 ## 🗂️ Repository Structure
 
@@ -28,7 +33,7 @@ DSA-Problems/
 ## 📖 Topics Covered
 
 ### 1️⃣ Arrays
-Exploring fundamental array operations and problem-solving techniques.
+Exploring fundamental array operations and problem-solving techniques. 
 
 **Key Concepts:**
 - Array manipulation
@@ -56,7 +61,7 @@ Deep dive into Java OOP concepts with practical implementations.
 - 🔹 **Practice Projects** - Real-world applications
 
 ### 3️⃣ Recursion
-Mastering recursive thinking and solving complex problems with elegant solutions.
+Mastering recursive thinking and solving complex problems with elegant solutions. 
 
 **Categories:**
 
@@ -84,9 +89,9 @@ Mastering recursive thinking and solving complex problems with elegant solutions
 - Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
 
 ### Running the Code
-1. Clone this repository:
+1. Clone this repository: 
    ```bash
-   git clone https://github.com/ziyous09/DSA-Problems.git
+   git clone https://github.com/ziyous09/DSA-Problems. git
    ```
 
 2. Navigate to the project directory:
@@ -133,9 +138,6 @@ Feel free to explore my code, provide feedback, or connect with me on this learn
 
 ## 📝 License
 
-This repository is for educational purposes. Feel free to use the code for learning and reference.
-
----
-
+This repository is for educational purposes.  Feel free to use the code for learning and reference.
 
 *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
