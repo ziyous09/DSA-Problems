@@ -10,9 +10,10 @@ Welcome to my DSA (Data Structures and Algorithms) learning repository! This is 
 
 ## 📊 Current Progress
 
-- **Total Problems Solved:** 94+ Java files
+- **Total Problems Solved:** 90+ problems and growing 🚀
 - **Topics Covered:** 3 Major Categories
 - **Daily Updates:** ✅ Active
+- **Last Updated:** December 28, 2025
 
 ## 🗂️ Repository Structure
 
@@ -151,6 +152,6 @@ This repository is for educational purposes. Feel free to use the code for learn
 
 ---
 
-**Last Updated:** December 2025 | **Status:** 🟢 Active Development
+**Last Updated:** December 28, 2025 | **Status:** 🟢 Active Development
 
 *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
