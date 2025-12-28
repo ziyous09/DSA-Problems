@@ -30,15 +30,6 @@ DSA-Problems/
 ### 1️⃣ Arrays
 Exploring fundamental array operations and problem-solving techniques.
 
-**Problems Solved:**
-1. ✅ Problem 1
-2. ✅ Problem 2
-3. ✅ Problem 3
-4. ✅ Problem 4
-5. ✅ Problem 5
-6. ✅ Problem 6
-7. ✅ Problem 7
-
 **Key Concepts:**
 - Array manipulation
 - In-place algorithms
@@ -70,15 +61,6 @@ Mastering recursive thinking and solving complex problems with elegant solutions
 **Categories:**
 
 #### 📌 Easy Problems
-1. Problem 1
-2. Problem 2
-3. Problem 3
-4. Problem 4
-5. Problem 5
-6. Problem 6
-7. Problem 7
-8. Problem 8
-9. Problem 9
 
 #### 📌 Sorting Algorithms (Recursive)
 1. Bubble Sort
