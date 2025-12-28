@@ -31,13 +31,13 @@ DSA-Problems/
 Exploring fundamental array operations and problem-solving techniques.
 
 **Problems Solved:**
-- ✅ First Missing Positive
-- ✅ Left Rotate By One
-- ✅ Move Zeroes
-- ✅ Prime Numbers (N)
-- ✅ Remove Duplicates
-- ✅ Rotate Array
-- ✅ Union of Arrays
+1. ✅ Problem 1
+2. ✅ Problem 2
+3. ✅ Problem 3
+4. ✅ Problem 4
+5. ✅ Problem 5
+6. ✅ Problem 6
+7. ✅ Problem 7
 
 **Key Concepts:**
 - Array manipulation
@@ -70,21 +70,21 @@ Mastering recursive thinking and solving complex problems with elegant solutions
 **Categories:**
 
 #### 📌 Easy Problems
-- Count Zeroes
-- Digit Product
-- Digit Sum
-- Diagonal Sum
-- Factorial
-- N to 1
-- Palindrome Check
-- Reverse Digit
-- Sum of Nth numbers
+1. Problem 1
+2. Problem 2
+3. Problem 3
+4. Problem 4
+5. Problem 5
+6. Problem 6
+7. Problem 7
+8. Problem 8
+9. Problem 9
 
 #### 📌 Sorting Algorithms (Recursive)
-- Bubble Sort
-- Merge Sort
-- Quick Sort
-- Selection Sort
+1. Bubble Sort
+2. Merge Sort
+3. Quick Sort
+4. Selection Sort
 
 #### 📌 Additional Topics
 - Array problems using recursion
