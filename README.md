@@ -61,7 +61,10 @@ Mastering recursive thinking and solving complex problems with elegant solutions
 **Categories:**
 
 #### 📌 Easy Problems
-
+- Missing Element
+- Count Zeroes
+- Remove Duplicate
+- 
 #### 📌 Sorting Algorithms (Recursive)
 1. Bubble Sort
 2. Merge Sort
@@ -117,8 +120,8 @@ I am committed to:
 ## 🎓 Learning Resources
 
 This repository reflects concepts learned from various sources including:
-- Online coding platforms
-- Algorithm textbooks
+- [Kunal Kushwaha ] https://www.youtube.com/@KunalKushwaha
+- [Leetcode] https://leetcode.com/
 - Java programming tutorials
 - Personal practice and experimentation
 
@@ -134,6 +137,5 @@ This repository is for educational purposes. Feel free to use the code for learn
 
 ---
 
-**Last Updated:** December 28, 2025 | **Status:** 🟢 Active Development
 
 *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
